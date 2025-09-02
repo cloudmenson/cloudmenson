@@ -1,6 +1,12 @@
 <h1 align="center">Hi there, I'm 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">Danya (or Marta)</a>
+  <a href="https://linkedin.com/in/hrytsenko-danylo" target="_blank">Linkedin</a>
+  <a href="danylo-hrytsenko-portfolio.netlify.app" target="_blank">Portfolio</a>
 </h1>
+
+<p align="center">
+  <i>P.S. Most of my commercial work was done in GitLab,  
+  that’s why my GitHub profile may look a bit empty 🙂</i>
+</p>
 
 <h3 align="center">Front-End Developer | React • TypeScript • Next.js • Tailwind</h3>
 
