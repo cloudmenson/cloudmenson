@@ -1,7 +1,9 @@
-<h1 align="center">Hi there, I'm 
+<h1 align="center">Hi there, I'm Danylo</h1>
+
+<div> 
   <a href="https://linkedin.com/in/hrytsenko-danylo" target="_blank">Linkedin</a>
   <a href="danylo-hrytsenko-portfolio.netlify.app" target="_blank">Portfolio</a>
-</h1>
+</div>
 
 <p align="center">
   <i>P.S. Most of my commercial work was done in GitLab,  
