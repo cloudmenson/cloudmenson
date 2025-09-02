@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Danylo</h1>
 
-<div> 
+<div align="center"> 
   <a href="https://linkedin.com/in/hrytsenko-danylo" target="_blank">Linkedin</a>
   <a href="danylo-hrytsenko-portfolio.netlify.app" target="_blank">Portfolio</a>
 </div>
