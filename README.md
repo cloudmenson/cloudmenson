@@ -7,13 +7,6 @@
 
 <h3 align="center">Front-End Developer | React • TypeScript • Next.js • Tailwind</h3>
 
-<b>
-<p align="center">
-  <i>P.S. Most of my commercial work was done in GitLab,  
-  that’s why my GitHub profile may look a bit empty 🙂</i>
-</p>
-</b>
-
 <p align="center">
 Greetings! 
 A dedicated and adaptable developer with 3 years of hands-on experience building responsive and maintainable web interfaces. Specializing in React, TypeScript, and modern UI frameworks, I focus on performance, scalability, and clean architecture. Known for fast learning and a strong sense of responsibility,
