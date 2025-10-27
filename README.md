@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Danylo</h1>
 
+<h3 align="center">Front-End Developer | React • TypeScript • Next.js • Tailwind •</h3>
+
 <div align="center"> 
   <a href="https://linkedin.com/in/hrytsenko-danylo" target="_blank">Linkedin</a>
   <a href="https://danylo-hrytsenko-portfolio.netlify.app" target="_blank">Portfolio</a>
 </div>
-
-<h3 align="center">Front-End Developer | React • TypeScript • Next.js • Tailwind</h3>
 
 <p align="center">
 Greetings! 
