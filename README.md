@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Danylo</h1>
 
-<h3 align="center">Front-End Developer | React • TypeScript • Next.js • Tailwind •</h3>
+<h3 align="center">Middle FrontEnd Developer at **Viso**</h3>
 
 <p align="center">
 Greetings! 
