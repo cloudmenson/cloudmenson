@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Danylo</h1>
 
-<h3 align="center">Middle Frontend Developer at Viso</h3>
+<h3 align="center">Middle Frontend Developer at <a style={fontWeight: 700} href="https://www.viso.software/" target="_blank">Viso</a></h3>
 
 <p align="center">
 Greetings! 
